@@ -1,9 +1,9 @@
 # hero.JesseJesse.com
 <img width="1440" alt="h j" src="https://github.com/sudo-self/hero/assets/119916323/b5b21de6-0895-43ed-a34c-c19645227b24">
 
-Typing improvement mechanics 
+Typing mechanics 
 
-[~/Desktop]$ npm create cloudflare@2 /Users/admin/Desktop/herotype                                                                         [ruby-3.0.0]
+[~/Desktop]$ npm create cloudflare@2 /Users/admin/Desktop/herotype                                                                   
 
 using create-cloudflare version 2.0.8
 
