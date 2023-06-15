@@ -1,4 +1,4 @@
-# hero
+# hero.JesseJesse.com
 <img width="1440" alt="Screenshot 2023-06-14 at 9 53 25 PM" src="https://github.com/sudo-self/hero/assets/119916323/4c848c63-1e43-4251-b94c-43d32264a407">
 
 Typing improvement mechanics 
