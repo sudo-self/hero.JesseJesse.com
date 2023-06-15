@@ -1,5 +1,5 @@
 # hero.JesseJesse.com
-<img width="1440" alt="Screenshot 2023-06-14 at 9 53 25 PM" src="https://github.com/sudo-self/hero/assets/119916323/4c848c63-1e43-4251-b94c-43d32264a407">
+<img width="1440" alt="h j" src="https://github.com/sudo-self/hero/assets/119916323/b5b21de6-0895-43ed-a34c-c19645227b24">
 
 Typing improvement mechanics 
 
